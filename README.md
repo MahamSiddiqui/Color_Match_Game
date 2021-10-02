@@ -1,3 +1,3 @@
 # Color_Match_Game
-This is the first game that I try to make from Youtube by seeing video.
-Starting to try some more skills.
+This is the first game that I tried from Youtube by seeing video.
+Starting to learn some more skills.
